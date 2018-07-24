@@ -1,0 +1,10 @@
+package.xml 
+src/package.xml 
+*copado__* 
+src/installedPackages/* 
+src/translations/* 
+src/objectTranslations/* 
+src/sites/* 
+src/siteDotComSites/* 
+src/reports/unfiled$public/* 
+src/dashboards/unfiled$public/*
