@@ -4,5 +4,9 @@
         <members>Account.John_Hancock__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Training_Perm_Set_1</members>
+        <name>PermissionSet</name>
+    </types>
     <version>42.0</version>
 </Package>
